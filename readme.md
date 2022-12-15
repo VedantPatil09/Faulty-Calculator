@@ -1,0 +1,1 @@
+This is a faulty calculator which works same as normal calculator but for user specified condition, returns a wrong value to the user.
